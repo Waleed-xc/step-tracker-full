@@ -9,7 +9,7 @@ const port = process.env.PORT || 3000;
 app.use(bodyParser.json());
 
 // MongoDB connection
-const mongoUri = process.env.MONGODB_URI || "mongodb+srv://kowaleed:647743864.w@cluster0.w81whu9.mongodb.net/";
+const mongoUri = process.env.MONGODB_URI || //add mongo uri here;
 const client = new MongoClient(mongoUri);
 
 let db, stepsCollection;
