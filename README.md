@@ -218,6 +218,4 @@ flutter run
 
 ✅ You now have a **full working system** (Mobile + Backend + Web).
 
----
-```
 
