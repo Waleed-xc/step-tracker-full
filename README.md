@@ -218,4 +218,12 @@ flutter run
 
 ✅ You now have a **full working system** (Mobile + Backend + Web).
 
+## ⚠️ General Considerations  
+
+- Due to **time limitations**, the mobile application may show some **instability** when running continuously.  
+- The feature that **saves data locally** is still under development and may require additional time to finalize.  
+- Current implementation focuses on **demonstrating the full workflow** (Mobile → Backend → Web App) rather than **complete production-level stability** as that requires more time.  
+- Some behaviors may vary slightly depending on device model, Android version, or development environment.  
+
+
 
