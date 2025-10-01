@@ -197,8 +197,7 @@ flutter run
 
 ## 🚀 Demonstration
 
-### Live Options:
-
+### Live:
 * **Web App (Vercel link)** → [[Deployed site](https://step-tracker-full.vercel.app)]
 * **Backend API (Render link)** → [[API endpoint](https://step-tracker-backend-1.onrender.com)/steps] Accepts Post and Get methods the payload example
 ```bash
@@ -207,6 +206,22 @@ flutter run
   "steps": 1234
 }
 ```
+### Mobile
+
+![steps1](https://github.com/user-attachments/assets/d0b34811-cd26-4b4a-8fdb-6fbb897b049d)
+
+
+![steps2](https://github.com/user-attachments/assets/931017ba-b5a3-47da-a655-ce82cef5b296)
+
+
+
+
+### Website
+
+<img width="1813" height="917" alt="image" src="https://github.com/user-attachments/assets/14d75f77-83b3-465d-b175-db3fa7f46550" />
+
+
+
 
 ### Local Testing:
 
