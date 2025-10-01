@@ -1,7 +1,4 @@
-Got it 👍 I’ll turn all of that into a structured **README.md** file for your **Step Tracker Full System** (mobile app + web app + backend).
-Here’s a professional and clean Markdown version:
 
----
 
 ```markdown
 # 🏃 Step Tracker Full System  
@@ -14,17 +11,9 @@ A complete system consisting of:
 ---
 
 ## 📂 Project Structure
-```
 
-step-tracker-full/
-│── backend/         # Node.js + Express API (MongoDB integration)
-│── webapp/          # Next.js/React web interface
-│── mobile/          # Flutter mobile app
-│── README.md        # Setup & usage instructions
 
-````
 
----
 
 ## ⚙️ Backend Setup & Deployment  
 
